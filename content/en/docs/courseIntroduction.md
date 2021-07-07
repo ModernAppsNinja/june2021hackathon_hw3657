@@ -8,12 +8,12 @@ weight: 1004
   - [Prerequisites](#prerequisites)
   - [Schedule](#schedule)
 - [Instructions](#instructions)
-  - [Report an Issue - Bug or Feature Request -- Hackathon QA Reporter Badge](#report-an-issue---bug-or-feature-request----hackathon-qa-reporter-badge)
+  - [Report an Issue - Bug or Feature Request -- Hackathon QA Provider Badge](#report-an-issue---bug-or-feature-request----hackathon-qa-provider-badge)
   - [Validate a course or guide -- Hackathon QA Validator Badge](#validate-a-course-or-guide----hackathon-qa-validator-badge)
   - [Support fellow community members -- Hackathon Support Provider Badge](#support-fellow-community-members----hackathon-support-provider-badge)
   - [Resolve an issue ticket - Bug or feature request -- Hackathon Triager Badge](#resolve-an-issue-ticket---bug-or-feature-request----hackathon-triager-badge)
   - [Update Page Content -- Hackathon Content Committer Badge](#update-page-content----hackathon-content-committer-badge)
-  - [Contribute New Content or Features -- Hackathon Content Developer Bad](#contribute-new-content-or-features----hackathon-content-developer-bad)
+  - [Contribute New Content or Features -- Hackathon Content Developer Badge](#contribute-new-content-or-features----hackathon-content-developer-badge)
 - [Thank you for participating!](#thank-you-for-participating)
 
 ## Hackathon Week Overview
@@ -63,17 +63,35 @@ Each contribution made in accordance with the instructions provided in this docu
 
 ## Instructions
 
-In future hackathons we intend to focus contribution efforts towards validating new courses, refreshing specific courses, or working towards specific features. However, in the June 2021 hackathon, all valid bug reports, feature requests, feedback tickets, contributions to any course, guide or site page will be eligible towards completing digital badge requirements per the instructions in the following subsections. 
+**Note:** You must have a free ModernApps Learning membership to be able to request a badge. If you are not a member, please sign up for a membership by following the instructions on the [https://modernapps.ninja](https://modernapps.ninja) homepage.
 
-It will be possible for earning up to 6 Digital Badges, each representing different types of participant activities listed below.
+To request your digital badge, you will need to post a "evidence file" with a link to the URL that shows the work you completed to earn the badge. This is a very simple process that is almost identical to the process you use when you enroll in any ModernApps Learning course. There is a unique folder where you will post your evidence file for each badge - the link for each badge is provided in the respective section for each badge below. 
 
-**Note:** Instructions for requesting your hackathon badge will be posted on Friday 7/2/21 to this page and to the ModernAppsNinja/Members Github Teams discussion board. We will also review the (automated) process to request your hackathon badge on the [ModernApps SRE Live! Hackathon Checkin Zoom Call](https://modernapps.ninja/event/srelive_7-2-21/).
+Once you open the pull request to post your evidence file, an administrator will review your request, and once your request is approved an automated GitHub action workflow will trigger that will provision your digital badge and update your member page with a record, the entityID and the verification link to your digital badge on [https://badgr.com](https://badgr.com).
 
-### Report an Issue - Bug or Feature Request -- Hackathon QA Reporter Badge
+Once your badge is provisioned, you will be notified with a message that will be posted by the workflow to the ModernAppsNinja Members Team message board [on this thread](https://github.com/orgs/ModernAppsNinja/teams/members/discussions/9). The award message will at-mention your GitHub account which will ensure you will recieve a notification in your GitHub Notifications panel.
 
-Any participant who reports a valid bug or feature request for any course, guide or other site page in the modernapps.ninja domain during the hackathon timeframe is eligible to request the Hackathon QA Reporter Badge.
+After you have recieved the message verifying your award has been provisioned, you will be able to verify your award details on your member profile page at the URL https://modernappsninjas.github.io/**YourGitHubUsername**/certs/ being sure to insert your github username as indicated in the URL. The digital badge is provisioned to the email address you used to register with the ModernApps Learning community, which you can verify at https://github.com/modernappsninjas/**YourGitHubUsername**/blob/main/static/userdata/member_record.yml. You can also create an account or login to an existing account with the email address you used to register with the ModernApps Learning community, and when you login to the associated badgr account, you should see all of the badges you have earned from ModernApps Learning programs. 
+
+### Report an Issue - Bug or Feature Request -- Hackathon QA Provider Badge
+
+Any participant who reports a valid bug or feature request for any course, guide or other site page in the modernapps.ninja domain during the hackathon timeframe is eligible to request the Hackathon QA Provider Badge.
 
 Please keep the ticket number and the URL for the ticket opened as it will be needed to request your digital badge.
+
+{{< exopen "Please Click Here to See Instructions for Requesting This Badge" >}}
+To Request the QA Provider Badge:
+
+1. Right click the following link and open it in a new tab [https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/qaprovider/awards](https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/qaprovider/awards)
+2. On the tab you opened in the previous step, click `Add file`
+3. The first time you post to this repository, your browser may prompt you to fork the repository, if so, select the option to fork the repository. 
+4. Name the new file **YOURGITHUBUSERNAME.yml** - be sure to use your own github username as the filename. 
+5. In the body of the new file, paste the URL to the issue ticket you opened as required in the validation steps listed above.
+6. Click `Propose New File`
+7. Click `Create Pull Request`
+8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+
+{{< exclose >}}
 
 ### Validate a course or guide -- Hackathon QA Validator Badge
 
@@ -84,6 +102,20 @@ To validate a course:
 
 After you have completed these requirements, please keep the url to the digital badge you earned for completing the course, and the issue ticket number and URL for the ticket you used to submit your course feedback, as you will need these items to request your Hackathon digital badge. 
 
+{{< exopen "Please Click Here to See Instructions for Requesting This Badge" >}}
+To Request the QA Validator Badge:
+
+1. Right click the following link and open it in a new tab [https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/qavalidator/awards](https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/qavalidator/awards)
+2. On the tab you opened in the previous step, click `Add file`
+3. The first time you post to this repository, your browser may prompt you to fork the repository, if so, select the option to fork the repository. 
+4. Name the new file **YOURGITHUBUSERNAME.yml** - be sure to use your own github username as the filename. 
+5. In the body of the new file, paste the URL to the feedback ticket you opened as required in the validation steps listed above.
+6. Click `Propose New File`
+7. Click `Create Pull Request`
+8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+
+{{< exclose >}}
+
 ### Support fellow community members -- Hackathon Support Provider Badge
 
 If you help provide support to resolve a question or issue for another community member during the Hackathon timeframe, you will be eligible for the Hackathon Support Provider Badge
@@ -91,6 +123,21 @@ If you help provide support to resolve a question or issue for another community
 It does not matter in which forum you provided this support, as long as you helped to provide an answer or other support to resolve another member's question/issue. You may typically find users seeking support in the issue tickets on any repo in the ModernAppsNinja org, in the Members team discussion board, or on the #modernappsninja slack channel in the VMware Code slack domain. 
 
 To request this badge, please keep the ticket number/url or a screenshot or other record of the conversation where you helped resolve another members question.
+
+{{< exopen "Please Click Here to See Instructions for Requesting This Badge" >}}
+To Request the Support Provider Badge:
+
+1. Right click the following link and open it in a new tab [https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/supportprovider/awards](https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/supportprovider/awards)
+2. On the tab you opened in the previous step, click `Add file`
+3. The first time you post to this repository, your browser may prompt you to fork the repository, if so, select the option to fork the repository. 
+4. Name the new file **YOURGITHUBUSERNAME.yml** - be sure to use your own github username as the filename. 
+5. In the body of the new file, paste the URL that shows the support you provided to another community member as required in the validation steps listed above.
+6. Click `Propose New File`
+7. Click `Create Pull Request`
+8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+
+{{< exclose >}}
+
 
 ### Resolve an issue ticket - Bug or feature request -- Hackathon Triager Badge
 
@@ -100,6 +147,20 @@ Please note that you may not have the permissions required to close an issue tic
 
 To request this badge, you will need to provide the URL to the ticket that you resolved as well as the URL for any pull requests related to resolving the issue.
 
+{{< exopen "Please Click Here to See Instructions for Requesting This Badge" >}}
+To Request the Issue Resolver Badge:
+
+1. Right click the following link and open it in a new tab [https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/issueresolver/awards](https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/issueresolver/awards)
+2. On the tab you opened in the previous step, click `Add file`
+3. The first time you post to this repository, your browser may prompt you to fork the repository, if so, select the option to fork the repository. 
+4. Name the new file **YOURGITHUBUSERNAME.yml** - be sure to use your own github username as the filename. 
+5. In the body of the new file, paste the URL to the issue ticket you resolved as required in the validation steps listed above.
+6. Click `Propose New File`
+7. Click `Create Pull Request`
+8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+
+{{< exclose >}}
+
 ### Update Page Content -- Hackathon Content Committer Badge
 
 If you make any update to any page on any ModernApps Learning course or lab guide, you will be eligible for the Hackathon Content Committer Badge. 
@@ -107,6 +168,20 @@ If you make any update to any page on any ModernApps Learning course or lab guid
 Every ModernApps Learning Course and Lab Guide page has a link on the right navigation bar to `Edit this page`. If you see any problems or improvements you can make to any page, please click the edit this page link, make and submit your suggested edit, and you will be eligible for the Hackathon Content Commiter Badge. 
 
 To request this badge, you will need to provide the URL to a PullRequest or Commit where you provided an update to a ModernApps Learning Page.
+
+{{< exopen "Please Click Here to See Instructions for Requesting This Badge" >}}
+To Request the Content Committer Badge:
+
+1. Right click the following link and open it in a new tab [https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/contentcommitter/awards](https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/contentcommitter/awards)
+2. On the tab you opened in the previous step, click `Add file`
+3. The first time you post to this repository, your browser may prompt you to fork the repository, if so, select the option to fork the repository. 
+4. Name the new file **YOURGITHUBUSERNAME.yml** - be sure to use your own github username as the filename. 
+5. In the body of the new file, paste the URL to the pull request you committed as required in the validation steps listed above.
+6. Click `Propose New File`
+7. Click `Create Pull Request`
+8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+
+{{< exclose >}}
 
 ### Contribute New Content or Features -- Hackathon Content Developer Badge
 If you provide a new course, lab guide, or submit your technical/educational blog to the tutorials page, you will be eligible for the Hackathon Content Developer Badge.
@@ -118,5 +193,19 @@ The Tutorials page on modernapps learning provides a collection of links and des
 If you would like to create a new course or lab guide, please [open a Support Request issue ticket on the ModernAppsNinja/modernappsninja.github.io repository](https://github.com/ModernAppsNinja/modernappsninja.github.io/issues/new/choose) and an administrator will respond to you to assist in creating your course or lab guide. 
 
 To request this badge, you will need to provide the URL to the Tutorial listing on the ModernApps Learning tutorials page, or the URL to the pullRequest you used to submit your tutorial.
+
+{{< exopen "Please Click Here to See Instructions for Requesting This Badge" >}}
+To Request the Content Committer Badge:
+
+1. Right click the following link and open it in a new tab [https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/contentdeveloper/awards](https://github.com/ModernAppsNinja/june2021hackathon_hw3657/tree/main/static/admin/userdata/hackathons/badges/contentdeveloper/awards)
+2. On the tab you opened in the previous step, click `Add file`
+3. The first time you post to this repository, your browser may prompt you to fork the repository, if so, select the option to fork the repository. 
+4. Name the new file **YOURGITHUBUSERNAME.yml** - be sure to use your own github username as the filename. 
+5. In the body of the new file, paste the URL to the new course, guide or tutorial you created, as required in the validation steps listed above.
+6. Click `Propose New File`
+7. Click `Create Pull Request`
+8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+
+{{< exclose >}}
 
 ## Thank you for participating!
