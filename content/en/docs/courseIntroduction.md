@@ -89,7 +89,8 @@ To Request the QA Provider Badge:
 5. In the body of the new file, paste the URL to the issue ticket you opened as required in the validation steps listed above.
 6. Click `Propose New File`
 7. Click `Create Pull Request`
-8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+8. Click `Create Pull Request` again to submit your pull request
+9. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
 
 {{< exclose >}}
 
@@ -112,7 +113,8 @@ To Request the QA Validator Badge:
 5. In the body of the new file, paste the URL to the feedback ticket you opened as required in the validation steps listed above.
 6. Click `Propose New File`
 7. Click `Create Pull Request`
-8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+8. Click `Create Pull Request` again to submit your pull request
+9. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
 
 {{< exclose >}}
 
@@ -134,7 +136,8 @@ To Request the Support Provider Badge:
 5. In the body of the new file, paste the URL that shows the support you provided to another community member as required in the validation steps listed above.
 6. Click `Propose New File`
 7. Click `Create Pull Request`
-8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+8. Click `Create Pull Request` again to submit your pull request
+9. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
 
 {{< exclose >}}
 
@@ -157,7 +160,8 @@ To Request the Issue Resolver Badge:
 5. In the body of the new file, paste the URL to the issue ticket you resolved as required in the validation steps listed above.
 6. Click `Propose New File`
 7. Click `Create Pull Request`
-8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+8. Click `Create Pull Request` again to submit your pull request
+9. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
 
 {{< exclose >}}
 
@@ -179,7 +183,8 @@ To Request the Content Committer Badge:
 5. In the body of the new file, paste the URL to the pull request you committed as required in the validation steps listed above.
 6. Click `Propose New File`
 7. Click `Create Pull Request`
-8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+8. Click `Create Pull Request` again to submit your pull request
+9. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
 
 {{< exclose >}}
 
@@ -204,7 +209,8 @@ To Request the Content Committer Badge:
 5. In the body of the new file, paste the URL to the new course, guide or tutorial you created, as required in the validation steps listed above.
 6. Click `Propose New File`
 7. Click `Create Pull Request`
-8. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
+8. Click `Create Pull Request` again to submit your pull request
+9. After you create the pull request, you simply need to wait for an administrator to approve your request and your badge will be provisioned. Once your request is approved, a message will be posted that will notify your GitHub account as described in the instructions section.
 
 {{< exclose >}}
 
